@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# Visual Studio Code directories
+.vscode/
+
+# Compiled Object files and dependencies
+*.o
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dylib
+
+# Executables
+*.out
+*.app
+
+# Debug symbols and info
+*.dSYM/
+
+# Other temporary files
+*~
+*.swp
+*.bak
